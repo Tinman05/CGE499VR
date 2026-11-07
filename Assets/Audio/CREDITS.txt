@@ -1,0 +1,6 @@
+Sound credits (all CC0 / public domain, no attribution required)
+- Audio/Dino/eat_*, roar_*, scream_*, grunt_*, burp_*: "80 CC0 creature SFX" by rubberduck - https://opengameart.org/content/80-cc0-creature-sfx
+- Audio/Dino/trex_calls.mp3: "T-rex calls" - https://opengameart.org/content/t-rex-calls (CC0)
+- Audio/Game/pickup, throw, meat_drop, thud: "50 RPG sound effects" by Kenney - https://opengameart.org/content/50-rpg-sound-effects (CC0)
+- Audio/Game/ding, win, lose, npc_click, npc_open: "Interface Sounds" by Kenney - https://opengameart.org/content/interface-sounds (CC0)
+Sky: "Kloofendal 48d Partly Cloudy (Pure Sky)" by Greg Zaal and Jarod Guest, Poly Haven, CC0 - https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky
